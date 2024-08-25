@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Sullivan/OneDrive/Visual Studio Workspace/sffair_GreatSpaceRace/sffair_GreatSpaceRace/Content/font.spritefont</File>
+    <File>C:/Users/Sullivan/OneDrive/Visual Studio Workspace/sffair_GreatSpaceRace/sffair_GreatSpaceRace/Content/models/doughnut.fbx</File>
+    <File>C:/Users/Sullivan/OneDrive/Visual Studio Workspace/sffair_GreatSpaceRace/sffair_GreatSpaceRace/Content/models/lego spaceship.fbx</File>
+    <File>C:/Users/Sullivan/OneDrive/Visual Studio Workspace/sffair_GreatSpaceRace/sffair_GreatSpaceRace/Content/models/space.jpg</File>
+    <File>C:/Users/Sullivan/OneDrive/Visual Studio Workspace/sffair_GreatSpaceRace/sffair_GreatSpaceRace/Content/models/sphere.fbx</File>
+    <File>C:/Users/Sullivan/OneDrive/Visual Studio Workspace/sffair_GreatSpaceRace/sffair_GreatSpaceRace/Content/textures/space.jpg</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Sullivan/OneDrive/Visual Studio Workspace/sffair_ComS437IndvProject1/sffair_ComS437IndvProject1/Content/bomb.png</File>
+    <File>C:/Users/Sullivan/OneDrive/Visual Studio Workspace/sffair_ComS437IndvProject1/sffair_ComS437IndvProject1/Content/bonk.mp3</File>
+    <File>C:/Users/Sullivan/OneDrive/Visual Studio Workspace/sffair_ComS437IndvProject1/sffair_ComS437IndvProject1/Content/downhill.png</File>
+    <File>C:/Users/Sullivan/OneDrive/Visual Studio Workspace/sffair_ComS437IndvProject1/sffair_ComS437IndvProject1/Content/File.spritefont</File>
+    <File>C:/Users/Sullivan/OneDrive/Visual Studio Workspace/sffair_ComS437IndvProject1/sffair_ComS437IndvProject1/Content/golfball.png</File>
+    <File>C:/Users/Sullivan/OneDrive/Visual Studio Workspace/sffair_ComS437IndvProject1/sffair_ComS437IndvProject1/Content/golfballHit.mp3</File>
+    <File>C:/Users/Sullivan/OneDrive/Visual Studio Workspace/sffair_ComS437IndvProject1/sffair_ComS437IndvProject1/Content/golfballInHole.mp3</File>
+    <File>C:/Users/Sullivan/OneDrive/Visual Studio Workspace/sffair_ComS437IndvProject1/sffair_ComS437IndvProject1/Content/hole.png</File>
+    <File>C:/Users/Sullivan/OneDrive/Visual Studio Workspace/sffair_ComS437IndvProject1/sffair_ComS437IndvProject1/Content/nuke.mp3</File>
+    <File>C:/Users/Sullivan/OneDrive/Visual Studio Workspace/sffair_ComS437IndvProject1/sffair_ComS437IndvProject1/Content/power.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>strokes.spritefont</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
